@@ -8,7 +8,7 @@ export const Header = () => {
         <div class="container">
             <nav class="nav">
                 <div class="logo">
-                    <a href="#">ForbocAI</a>
+                    <a href="#"><img src="logo.png" alt="ForbocAI" class="logo-img" /></a>
                 </div>
                 <div class="nav-links">
                     <a href="#thesis">Thesis</a>

@@ -65,10 +65,18 @@ body {
     font-size: 1.25rem;
     color: var(--text);
     text-decoration: none;
+    display: flex;
+    align-items: center;
 }
 
 .logo a:hover {
     color: var(--text-muted);
+}
+
+.logo-img {
+    height: 28px;
+    width: auto;
+    object-fit: contain;
 }
 
 .nav-links {
@@ -411,11 +419,18 @@ body {
     text-align: center;
 }
 
-.footer-logo {
-    font-family: var(--font-heading);
-    font-weight: 700;
+.footer-logo,
+.footer-logo-img {
     display: block;
     margin-bottom: 0.5rem;
+}
+
+.footer-logo-img {
+    height: 24px;
+    width: auto;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .footer-copy {
