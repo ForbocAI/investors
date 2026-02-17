@@ -40,3 +40,6 @@ Compliance with the [Style Guide](./style-guide.md) ensures the vision remains u
 
 ---
 *PORTAL_ACTIVE // SEED_ROUND_OPEN*
+
+## License
+All rights reserved. © 2026 ForbocAI. See [LICENSE](./LICENSE) for full details.
