@@ -9,7 +9,7 @@ export const Traction = () => {
         <h2>Why now</h2>
         <p>ForbocAI SDK and ForbocAI Protocol are in active development. Key milestones already shipped.</p>
         <ul class="list">
-            <li>SDK v0.3.x: core modules shipped (inference, agents, memory, validation, Soul, Ghost).</li>
+            <li>SDK v0.5.x: core modules shipped (inference, agents, memory, validation, Soul, Ghost).</li>
             <li>Cloud orchestration live: backend, 25+ endpoints.</li>
             <li>Local SLM runtime: quantized models (SmolLM2) on consumer hardware.</li>
             <li>Semantic memory: persistent recall, temporal decay.</li>

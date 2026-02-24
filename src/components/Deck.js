@@ -10,7 +10,7 @@ const slides = [
         title: 'ForbocAI',
         content: `
             <p class="deck-tagline">NPCs that feel alive. Local-first AI at the edge.</p>
-            <p class="deck-meta">Seed round — January 2026</p>
+            <p class="deck-meta">Seed round — February 2026</p>
         `
     },
     {
@@ -110,7 +110,7 @@ const slides = [
         id: 12,
         title: 'The ask',
         content: `
-            <p><strong>Seed round — open.</strong></p>
+            <p><strong>Seed round — open.</strong> ~$10M SAFE Cap.</p>
             <p>Use of funds: 40% engineering, 20% infra, 30% community/marketing, 10% legal.</p>
             <p><a href="mailto:investors@forboc.ai" class="btn btn-primary">investors@forboc.ai</a></p>
         `

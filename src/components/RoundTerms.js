@@ -6,7 +6,7 @@ export const RoundTerms = () => {
     return `
     <div id="round" class="block">
         <span class="block-label">ROUND</span>
-        <h2>Seed round — open</h2>
+        <h2>Seed round — open (~$10M SAFE Cap)</h2>
         <p>Raising to build the founding team and ship the first production-ready version of the ForbocAI Protocol.</p>
         <h3>Use of funds</h3>
         <ul class="list">
