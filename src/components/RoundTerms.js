@@ -8,6 +8,12 @@ export const RoundTerms = () => {
         <span class="block-label">ROUND</span>
         <h2>Seed round — open (~$10M SAFE Cap)</h2>
         <p>Raising to build the founding team and ship the first production-ready version of the ForbocAI Protocol.</p>
+        <h3>$FAI token</h3>
+        <ul class="list">
+            <li><strong>Live utility layer:</strong> $FAI is active in the Soul economy.</li>
+            <li><strong>Core uses:</strong> Soul minting, Soul upgrades, and marketplace operations.</li>
+            <li><strong>Strategic role:</strong> Expands monetization beyond software licensing into ecosystem transaction flow.</li>
+        </ul>
         <h3>Use of funds</h3>
         <ul class="list">
             <li><strong>40%</strong> — Engineering (co-founder hires, contractors).</li>

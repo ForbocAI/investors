@@ -10,7 +10,7 @@ const slides = [
         title: 'ForbocAI',
         content: `
             <p class="deck-tagline">NPCs that feel alive. Local-first AI at the edge.</p>
-            <p class="deck-meta">Seed round — February 2026</p>
+            <p class="deck-meta">Seed round — March 2026</p>
         `
     },
     {
@@ -25,10 +25,10 @@ const slides = [
         id: 3,
         title: 'The solution',
         content: `
-            <p><strong>ForbocAI Protocol:</strong> Local-first inference. Logic-backed validation. Persistent memory. Portable souls.</p>
+            <p><strong>ForbocAI Protocol:</strong> Local-first intelligence. Reliable behavior. Persistent memory. Portable souls.</p>
             <ul class="list">
-                <li>Local inference: instant response, zero server cost, privacy.</li>
-                <li>Logic-backed validation: AI intent validated against game rules.</li>
+                <li>Local-first intelligence: responsive play and player-first privacy.</li>
+                <li>Reliable behavior: AI intent is constrained by game rules.</li>
                 <li>Semantic memory: agents remember and evolve.</li>
                 <li>Portable souls: own, trade, port across worlds.</li>
             </ul>
@@ -40,7 +40,7 @@ const slides = [
         content: `
             <ul class="list">
                 <li><strong>Logic-backed intelligence:</strong> AI thinks; system enforces rules. No hallucinations.</li>
-                <li><strong>Edge-first SLMs:</strong> Quantized models on consumer hardware.</li>
+                <li><strong>Local-first architecture:</strong> Fast player experience without pure cloud dependency.</li>
                 <li><strong>Ghost in the Machine:</strong> Automated agents test content at scale.</li>
                 <li><strong>ForbocAI Protocol:</strong> Open interoperability; network effects.</li>
             </ul>
@@ -51,7 +51,7 @@ const slides = [
         title: 'Market',
         content: `
             <p>$220B+ global gaming (2025). $62B AI in gaming by 2032. 3.4B gamers.</p>
-            <p><strong>Why now:</strong> Consumer hardware (M-series, RTX, NPUs). Open models (SmolLM2, Phi-3, Llama). Demand for responsive worlds.</p>
+            <p><strong>Why now:</strong> Better on-device compute, mature AI tooling, and player demand for responsive worlds.</p>
         `
     },
     {
@@ -59,9 +59,9 @@ const slides = [
         title: 'Business model',
         content: `
             <ul class="list">
-                <li><strong>Phase 1:</strong> SDK licensing. Per-seat SaaS.</li>
-                <li><strong>Phase 2:</strong> Enterprise integration. Custom SLM fine-tuning.</li>
-                <li><strong>Phase 3:</strong> Protocol fees. Soul marketplace, royalties.</li>
+                <li><strong>Phase 1:</strong> Paid SDK and protocol access for studios from day one.</li>
+                <li><strong>Phase 2:</strong> Usage-based growth as live games scale player activity.</li>
+                <li><strong>Phase 3:</strong> $FAI-powered Soul economy fees, marketplace activity, and royalties.</li>
             </ul>
         `
     },
@@ -96,14 +96,14 @@ const slides = [
         id: 10,
         title: 'Traction',
         content: `
-            <p>SDK v0.3.x, cloud orchestration live, local SLM runtime, semantic memory, Soul portability, docs, BDD suite. Next: Solana integration, Python/Rust bindings, Unity/Unreal plugins.</p>
+            <p>SDK foundation shipped, protocol infrastructure live, and partner-facing documentation active. Current focus: production hardening, paid onboarding, and first studio deployments.</p>
         `
     },
     {
         id: 11,
         title: 'Roadmap',
         content: `
-            <p>Q1 2026: local inference alpha, memory integration. Q2: logic-backed validation, ghost QA. Q3: agent economy, wallet, Soul marketplace. Q4: SDK for creators. 2027: Protocol v1.0, enterprise.</p>
+            <p>Q1 2026 (in progress): SDK v1.0 hardening and pilots. Q2: reliability and billing stack. Q3: Soul economy expansion and QA dashboard. Q4: distribution growth across engine ecosystems. 2027: protocol scale with enterprise studio partnerships.</p>
         `
     },
     {
@@ -111,6 +111,7 @@ const slides = [
         title: 'The ask',
         content: `
             <p><strong>Seed round — open.</strong> ~$10M SAFE Cap.</p>
+            <p><strong>$FAI utility is live:</strong> Minting, upgrades, and marketplace operations in the Soul economy.</p>
             <p>Use of funds: 40% engineering, 20% infra, 30% community/marketing, 10% legal.</p>
             <p><a href="mailto:investors@forboc.ai" class="btn btn-primary">investors@forboc.ai</a></p>
         `

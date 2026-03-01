@@ -18,6 +18,10 @@ export const Materials = () => {
                 <p><a href="https://forboc.ai/#whitepaper" class="link" target="_blank" rel="noopener">Technical whitepaper</a> (main site).</p>
             </div>
             <div class="block">
+                <h2>$FAI token overview</h2>
+                <p>$FAI powers core Soul economy actions: minting, upgrades, and marketplace operations. It is positioned as the transaction rail for cross-title NPC ownership and value flow.</p>
+            </div>
+            <div class="block">
                 <h2>Contact</h2>
                 <p>Request data room access or data pack: <a href="mailto:investors@forboc.ai" class="link">investors@forboc.ai</a>.</p>
             </div>

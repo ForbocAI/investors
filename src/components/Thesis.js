@@ -7,12 +7,13 @@ export const Thesis = () => {
     <div id="thesis" class="block">
         <span class="block-label">THESIS</span>
         <h2>The bet</h2>
-        <p>Game AI is static; generative AI is chaotic and cloud-dependent. Neither is persistent or ownable. ForbocAI is the layer that makes game NPCs local, stateful, and portable—Synthetic Souls with a Ghost in the Machine. We are infrastructure at the intersection of gaming, AI, and decentralized ownership.</p>
+        <p>Game AI is static; generative AI is chaotic. Neither is persistent or ownable. ForbocAI is the layer that makes game NPCs local, stateful, and portable. We are infrastructure at the intersection of gaming, AI, and digital ownership.</p>
         <ul class="list">
-            <li><strong>Local inference:</strong> Instant response, zero server burn, full privacy.</li>
-            <li><strong>Logic-backed intelligence:</strong> AI intent validated against game rules. No hallucinations.</li>
+            <li><strong>Local-first performance:</strong> Responsive characters with player-first privacy.</li>
+            <li><strong>Reliable behavior:</strong> AI intent is constrained by game rules before impact.</li>
             <li><strong>Persistent memory:</strong> Agents that remember and evolve.</li>
             <li><strong>Ownable agents:</strong> Portable souls—own, trade, port across worlds.</li>
+            <li><strong>$FAI token utility:</strong> Powers Soul minting, upgrades, and marketplace activity across the ecosystem.</li>
         </ul>
     </div>
     `;
